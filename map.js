@@ -14,10 +14,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [41.8887686571782, -87.63736875081916],
+            "coordinates": [-87.63736875081916, 41.8887686571782],
         }
     }];
 
+    
     var geojsonFeature = {
         "type": "FeatureCollection",
         "features": [
