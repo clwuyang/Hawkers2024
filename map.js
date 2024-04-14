@@ -22,17 +22,6 @@ document.addEventListener('DOMContentLoaded', () => {
         "type": "FeatureCollection",
         "features": [
         {
-            "type": "Feature",
-            "properties": {
-                "name": "350 West Mart",
-                "show_on_map": true, 
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [41.8887686571782, -87.63736875081916],
-            }
-        },
-        {
             "type":"Feature",
             "properties":{"objectid":"1","ped_route":"203 - RENAISSANCE HOTEL CONCOURSE","shape_len":"1956.43561777"},
             "geometry":{"type":"MultiLineString",
