@@ -26,9 +26,9 @@ Unique experience:  Focusing on lesser-known activities to provide travelers wit
 ## Authors
 
 - Chenglong Wu Yang [@clwuyang](https://www.github.com/clwuyang) | [Linkedin](https://www.linkedin.com/in/cwuyang/)
-- Ratana Khek   [@ratanakhek22](https://www.github.com/ratanakhek22) | [Linkedin](https://www.linkedin.com/in/skhek/)
-- Thomas Wagner [@tbwagner](https://www.github.com/tbwagner) | [Linkedin](https://www.linkedin.com/in/thomas-wagner-267b49275/)
-- Si Qiang Wu Yang [@siqiangwu](https://www.github.com/siqiangwu) | [Linkedin](https://www.linkedin.com/in/siqiangwu/)
+- Ratana Khek      [@ratanakhek22](https://www.github.com/ratanakhek22) | [Linkedin](https://www.linkedin.com/in/skhek/)
+- Thomas Wagner    [@tbwagner](https://www.github.com/tbwagner) | [Linkedin](https://www.linkedin.com/in/thomas-wagner-267b49275/)
+- Si Qiang Wu Yang   [@siqiangwu](https://www.github.com/siqiangwu) | [Linkedin](https://www.linkedin.com/in/siqiangwu/)
 
 
 ## Demo
