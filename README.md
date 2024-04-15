@@ -56,15 +56,24 @@ Hi! We are Windy City Whispers, we built a smart travel platform powered by Larg
 
 
 ## Screenshots
+![Home](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/landing.png?raw=true)
 
 ![Landing](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/landing.JPG?raw=true)
+![Millenium Park](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/millenniumpark.JPG?raw=true)
+![About](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/about.png?raw=true)
 
 ![Map](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/map.JPG?raw=true)
 
-![Millenium Park](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/millenniumpark.JPG?raw=true)
-
 ![Sears Tower](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/searstower.JPG?raw=true)
 
+![Form](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/chatform.png?raw=true)
+
+
+
+
+![Prompt1](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/prompt1.png?raw=true)
+![Prompt2](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/prompt2.png?raw=true)
+![Prompt3](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/prompt3.png?raw=true)
 ## Libraries Used
 
 - Leaflet | [Link](https://leafletjs.com/index.html)
