@@ -11,13 +11,178 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Apparel Mart / Holiday Inn",
             "show_on_map": true, 
-            "popupContent": "Entrance: Apparel Mart / Holiday Inn <br>(350 W Wolf Point Plaza, Chicago, IL 60654)",
+            "popupContent": "Apparel Mart / Holiday Inn<br><a href='https://maps.app.goo.gl/PZq3jJkuXyLaJjNS7'>350 W Wolf Point Plaza, Chicago, IL 60654</a><br><img src='images/fulls/350 West Mart.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
             "coordinates": [-87.63736875081916, 41.8887686571782],
         }
-    }];
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "James R. Thompson Center",
+            "show_on_map": true, 
+            "popupContent": "James R. Thompson Center<br><a href='https://maps.app.goo.gl/28asMQGTxDN3WqRv6'>100 W Randolph St, Chicago, IL 60601</a><br><img src='images/fulls/James R Thompson Center.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.63166814664832, 41.88528632016357],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Chicago Board of Options Exchange / LaSalle St. Station",
+            "show_on_map": true, 
+            "popupContent": "Chicago Board of Options Exchange / LaSalle St. Station<br><a href='https://maps.app.goo.gl/pVVkMa3Wije9rKCQ7'>203 N La Salle St Suite 202 2nd Floor, Chicago, IL 60601</a><br><img src='images/fulls/fulls/METRA Ogilvie Station.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.63188428897718, 41.88609749526718],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Three First National Plaza",
+            "show_on_map": true, 
+            "popupContent": "Three First National Plaza<br><a href='https://maps.app.goo.gl/8PkBkE338ew9qXze6'>70 W Madison St, Chicago, IL 60602</a><br><img src='images/fulls/Three First National Plaza.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62979944664849, 41.88245986380699],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Heritage At Millennium Park",
+            "show_on_map": true, 
+            "popupContent": "Heritage At Millennium Park<br><a href='https://maps.app.goo.gl/dwg4vFaKTuPYPiBq6'>130 N Garland Ct, Chicago, IL 60602</a><br><img src='images/fulls/Heritage Millennium.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62576128897729, 41.884182298114425],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Grant Park South Garage",
+            "show_on_map": true, 
+            "popupContent": "Grant Park South Garage<br><a href='https://maps.app.goo.gl/k9CffR7QFfbUD8N59'>325 S Michigan Ave, Chicago, IL 60604</a><br><img src='images/fulls/Grant Park South Garage.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62430309082649, 41.87753769009981],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Chicago Cultural Center",
+            "show_on_map": true, 
+            "popupContent": "Chicago Cultural Center<br><a href='https://maps.app.goo.gl/RuaWYnfwC7oBJvJg9'>78 E Washington St, Chicago, IL 60602</a><br><img src='images/fulls/Chicago Cultural Center.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62491931781283, 41.88390533598839],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "One Illinois Center",
+            "show_on_map": true, 
+            "popupContent": "One Illinois Center<br><a href='https://maps.app.goo.gl/rpqevqpxsu1iuXnYA'>111 E Wacker Dr, Chicago, IL 60601</a><br><img src='images/fulls/One Illinois Center.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62352295829274, 41.888216712835955],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Dirksen Federal Building",
+            "show_on_map": true, 
+            "popupContent": "Dirksen Federal Building<br><a href='https://maps.app.goo.gl/zqXuLgcqKadjEBfB6'>219 S Dearborn St, Chicago, IL 60604</a><br><img src='images/fulls/Dirksen Federal Building.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62913607548428, 41.8790300299324],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Exelon Corporation Headquarters",
+            "show_on_map": true, 
+            "popupContent": "Exelon Corporation Headquarters<br><a href='https://maps.app.goo.gl/dGgRbbkNuvXWQ3ZeA'>10 S Dearborn St, Chicago, IL 60603</a><br><img src='images/fulls/47 South Clark St.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.63029088566422, 41.881696278475836],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Millennium Park",
+            "show_on_map": true, 
+            "popupContent": "Millennium Park<br><a href='https://maps.app.goo.gl/6xYaJP3TFwzQ6mLaA'>Chicago, IL 60602</a><br><img src='images/fulls/Millennium Park.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62254067548403, 41.882552371241324],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Macy's",
+            "show_on_map": true, 
+            "popupContent": "Macy's<br><a href='https://maps.app.goo.gl/a3zyD4wv5rMxwm8B8'>111 N State St, Chicago, IL 60602</a><br><img src='images/fulls/Macys.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62696454664838, 41.883951860635996],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Ogilvie Transportation Center",
+            "show_on_map": true, 
+            "popupContent": "Ogilvie Transportation Center<br><a href='https://maps.app.goo.gl/KFbU2eWQ5GgzYSWL6'>500 W Madison St, Chicago, IL 60661</a><br><img src='images/fulls/METRA Ogilvie Station.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.64058846383936, 41.883274662075166],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Lakeshore Sport & Fitness",
+            "show_on_map": true, 
+            "popupContent": "Lakeshore Sport & Fitness<br><a href='https://maps.app.goo.gl/vtxvAYaE3YGgMdc67'>211 N Stetson Ave, Chicago, IL 60601</a><br><img src='images/fulls/Lakeshore Athletic Club.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.6219138177762, 41.886315717588936],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Renaissance Hotel",
+            "show_on_map": true, 
+            "popupContent": "Renaissance Hotel<br><a href='https://maps.app.goo.gl/aVirHVti2pkVEs1H8'>1 W Wacker Dr, Chicago, IL 60601</a><br><img src='images/fulls/Renaissance Hotel.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.62828071781271, 41.88631998095689],
+        }
+    },{
+        "type": "Feature",
+        "properties": {
+            "name": "Willis Tower",
+            "show_on_map": true, 
+            "popupContent": "Sears Tower<br><a href='https://maps.app.goo.gl/2gH7KXq5SGKzn2JT8'>233 S Wacker Dr, Chicago, IL 60606</a><br><img src='images/fulls/Sears Tower.png' width='200'>",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.63600073500409, 41.87899619469113],
+        }
+    },];
 
     
     var geojsonFeature = {
