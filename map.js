@@ -2,10 +2,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const urlParams = new URLSearchParams(window.location.search);
-    const coordNS = parseFloat(urlParams.get('coordNS'))
+    const coordNS = parseFloat(urlParams.get('coordsNS'))
     const coordEW = parseFloat(urlParams.get('coordsEW'))
 
-    var map = L.map('map').setView([coordsNS, coordsEW], 15);
+    var map = L.map('map').setView([coordNS, coordEW], 17);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 100,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
