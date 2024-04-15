@@ -17,18 +17,27 @@
 					<header id="header">
 						<h1><a href="index.html"><strong>Windy City Whispers</strong> By Hawkers</a></h1>
 						<nav>
-							<ul>
-								<li><a href="#footer" class="icon solid fa-info-circle">About</a></li>
-							</ul>
-						</nav>
+                            <ul>
+                                
+                                <li><button type="button" onclick="location.href='map.html';">View Map</button></li>
+                                <li><a href="#footer" class="icon solid fa-info-circle">About</a></li>
+                                
+                            </ul>
+                        </nav>
+                        
 					</header>
 
 				<!-- Main -->
 					<div id="main">
 						<article class="thumb">
 							<a href="images/Millennium_Park.png" class="image"><img src="images/thumbs/Millennium_Park.png" alt="" /></a>
+                            
 							<h2>Millennium Park</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
+                            <button type="button" onclick="event.preventDefault(); event.stopPropagation(); window.location.href='map.html';">View Map</button>
+
+            
+                            
 						</article>
 						<article class="thumb">
 							<a href="images/fulls/350_West_Mart.png" class="image"><img src="images/fulls/350_West_Mart.png" alt="" /></a>
@@ -86,64 +95,64 @@
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
 						</article>
 					</div>
-
-				<!-- Footer -->
-					<footer id="footer" class="panel">
-						<div class="inner split">
-							<div>
-								<section>
-									<h2>Magna feugiat sed adipiscing</h2>
-									<p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.</p>
-								</section>
-								<section>
-									<h2>Follow me on ...</h2>
-									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-										<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-										<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-									</ul>
-								</section>
-								<p class="copyright">
-									&copy; Unttled. Design: <a href="http://html5up.net">HTML5 UP</a>.
-								</p>
-							</div>
-							<div>
-								<section>
-									<h2>Get in touch</h2>
-									<form method="post" action="#">
-										<div class="fields">
-											<div class="field half">
-												<input type="text" name="name" id="name" placeholder="Name" />
-											</div>
-											<div class="field half">
-												<input type="text" name="email" id="email" placeholder="Email" />
-											</div>
-											<div class="field">
-												<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-											</div>
-										</div>
-										<ul class="actions">
-											<li><input type="submit" value="Send" class="primary" /></li>
-											<li><input type="reset" value="Reset" /></li>
-										</ul>
-									</form>
-								</section>
-							</div>
-						</div>
-					</footer>
-
-			</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.poptrox.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+                    
+				                <!-- Footer -->
+                                <footer id="footer" class="panel">
+                                    <div class="inner split">
+                                        <div>
+                                            <section>
+                                                <h2>ABOUT US</h2>
+                                                <p>Hi! We are Windy City Whispers, we built a smart travel platform powered by AI, providing you with a more customized touristic experience.</p>
+                                            </section>
+                                            <section>
+                                                <h2>PURPOSE</h2>
+                                                <p>We aim to tailor suggestions based on your preferences to enhance your experience visiting Chicago. Whilst most travel sites provide generic recommendations, we deliver more authentic experiences for people who want to explore a city beyond its typical tourist attractions. So, what are you waiting for, try out our Chatbot! 🤖 It will feel like talking to a knowledgeable local, but with more data! 😉 </p>
+                                            </section>
+                                            <section>
+                                                <h2>Follow us on ...</h2>
+                                                <ul class="icons">
+                                                    
+                                                    <li><a href="https://github.com/clwuyang/Hawkers2024" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+                                                    <button type="button" onclick="location.href='map.html';">View Map</button>
+                                                </ul>
+                                                
+                                            </section>
+                                            
+                                        </div>
+                                        <div>
+                                            <section>
+                                                <h2>Contact us</h2>
+                                                <form method="post" action="#">
+                                                    <div class="fields">
+                                                        <div class="field half">
+                                                            <input type="text" name="name" id="name" placeholder="Name" />
+                                                        </div>
+                                                        <div class="field half">
+                                                            <input type="text" name="email" id="email" placeholder="Email" />
+                                                        </div>
+                                                        <div class="field">
+                                                            <textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="actions">
+                                                        <li><input type="submit" value="Send" class="primary" /></li>
+                                                        <li><input type="reset" value="Reset" /></li>
+                                                    </ul>
+                                                </form>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </footer>
+                        </div>
+            
+                    <!-- Scripts -->
+                        <script src="assets/js/jquery.min.js"></script>
+                        <script src="assets/js/jquery.poptrox.min.js"></script>
+                        <script src="assets/js/browser.min.js"></script>
+                        <script src="assets/js/breakpoints.min.js"></script>
+                        <script src="assets/js/util.js"></script>
+                        <script src="assets/js/main.js"></script>
+            
+                </body>
+            </html>
+            
