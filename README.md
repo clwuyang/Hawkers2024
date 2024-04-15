@@ -7,7 +7,7 @@
 Hi! We are Windy City Whispers, we built a smart travel platform powered by Large Language Models, providing a more customized touristic experience.
 
 
-**Purpose:** Most travel apps provide generic recommendations. We want to tailor suggestions to enhance user experience.
+**Purpose:** Whilst most travel sites provide generic recommendations, and to get your custom ideal itinerary, you must spend hours and hours looking through different websites, with our solution we provide instant tailor made suggestions to enhance your adventures.
 
 **Personalization:** Based on user input, give tailor-made suggestions.
 Unique experience:  Focusing on lesser-known activities to provide travelers with more authentic experiences and want to explore a city beyond its typical tourist attractions.
