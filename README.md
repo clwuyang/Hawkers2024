@@ -58,7 +58,12 @@ Insert gif or link to demo
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+## Libraries Used
 
+- Leaflet | [Link](https://leafletjs.com/index.html)
+- Chicago Pedway System Data | [Link](https://data.cityofchicago.org/Transportation/Pedway-Routes/aqxt-626s)
+
+  
 ## Installation
 
 Install my-project with npm
