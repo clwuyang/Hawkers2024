@@ -4,7 +4,7 @@
 
 # Windy City Whispers
 
-Hi! We are Windy City Whispers, we built a smart travel platform powered by Large Language Models, providing an instant and more customized touristic experience. Goodbye to wasting time planning your perfect itinerary!
+Hi! We are Windy City Whispers, we built a smart travel platform powered by Large Language Models, providing an instant and more customized touristic experience. Say goodbye to wasting time planning your perfect itinerary!
 
 
 **Purpose:** Whilst most travel sites provide generic recommendations, and to get your custom ideal itinerary, you must spend hours and hours looking through different websites, with our solution we provide instant tailor made suggestions to enhance your adventures.
