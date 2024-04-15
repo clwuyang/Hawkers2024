@@ -33,7 +33,7 @@ Unique experience:  Focusing on lesser-known activities to provide travelers wit
 
 ## Demo (Click image for Youtube link)
 
-[![Windy City Whispers Demo](https://img.youtube.com/vi/YdUhoQT5q4U/0.jpg)](https://www.youtube.com/watch?v=YdUhoQT5q4U)
+[![Windy City Whispers Demo](https://img.youtube.com/vi/pc3H71vZWMk/0.jpg)](https://www.youtube.com/watch?v=pc3H71vZWMk)
 
 
 ## Tech Stack
