@@ -31,7 +31,7 @@ Unique experience:  Focusing on lesser-known activities to provide travelers wit
 - Si Qiang Wu Yang   [@siqiangwu](https://www.github.com/siqiangwu) | [Linkedin](https://www.linkedin.com/in/siqiangwu/)
 
 
-## Demo
+## Demo (Click image for Youtube link)
 
 [![Windy City Whispers Demo](https://img.youtube.com/vi/YdUhoQT5q4U/0.jpg)](https://www.youtube.com/watch?v=YdUhoQT5q4U)
 
