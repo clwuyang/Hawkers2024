@@ -66,26 +66,18 @@ Unique experience:  Focusing on lesser-known activities to provide travelers wit
   
 ## Installation
 
-Install my-project with npm
+Clone the project 
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/clwuyang/Hawkers2024.git
+```
+
+Open project directory
+```bash
+  cd Hawkers2024
 ```
     
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
 
 Install dependencies
 
@@ -93,9 +85,4 @@ Install dependencies
   npm install
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
-
+Use Visual Studio Code Extension Live Server and right-click index.html file to run locally
