@@ -57,7 +57,13 @@ Hi! We are Windy City Whispers, we built a smart travel platform powered by Larg
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Landing](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/landing.JPG?raw=true)
+
+![Map](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/map.JPG?raw=true)
+
+![Millenium Park](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/millenniumpark.JPG?raw=true)
+
+![Sears Tower](https://github.com/clwuyang/Hawkers2024/blob/main/screenshots/searstower.JPG?raw=true)
 
 ## Libraries Used
 
