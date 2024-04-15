@@ -34,7 +34,7 @@ Hi! We are Windy City Whispers, we built a smart travel platform powered by Larg
 
 ## Demo (Click image for Youtube link)
 
-[![Windy City Whispers Demo](https://img.youtube.com/vi/pc3H71vZWMk/0.jpg)](https://www.youtube.com/watch?v=pc3H71vZWMk)
+[![Windy City Whispers Demo](https://img.youtube.com/vi/HKxxX50ixDg /0.jpg)](https://www.youtube.com/watch?v=HKxxX50ixDg )
 
 
 ## Tech Stack
