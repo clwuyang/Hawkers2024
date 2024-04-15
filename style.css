@@ -6,6 +6,26 @@
 }
 
 #map {
+    height: 100vh;
+    width: 100vw;
     z-index: 1;
-    height: 600px;
 }
+#legend {
+    position: absolute;
+    top: 25px; /* Adjust as needed */
+    right: 25px; /* Adjust as needed */
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    font-size: 14px;
+    z-index: 5; /* Ensure it's above other map layers */
+    border-radius: 5px; /* Optional for rounded corners */
+  }
+  
+  .legend-key {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    background-color: #4688e4; /* Adjust the color to match your blue lines */
+  }
+  
