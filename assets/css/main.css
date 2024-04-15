@@ -2054,7 +2054,13 @@ input, select, textarea {
 			left: 0;
 			top: 0; /* Adjust as necessary */
 		}
-		
+		#si-wrapper .silc-btn {
+            position: fixed;
+            bottom: 10px !important;
+            height: 55px !important;
+            width: 50px !important;
+            right: 380px !important; 
+            }	
 
 
 		
