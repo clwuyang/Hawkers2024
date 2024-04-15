@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     },];
 
-    
+    // data (GeoJSON) from https://data.cityofchicago.org/Transportation/Pedway-Routes/aqxt-626s
     var geojsonFeature = {
         "type": "FeatureCollection",
         "features": [
