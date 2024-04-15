@@ -10,7 +10,15 @@ document.addEventListener('DOMContentLoaded', () => {
         maxZoom: 100,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
+    var legend = L.control({position: 'bottomright'});
 
+legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'info legend');
+    
+    return div;
+};
+
+legend.addTo(map);
     var entrances = [{
         "type": "Feature",
         "properties": {
@@ -207,7 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
             layer.bindPopup(feature.properties.popupContent);
         }
     }
-
+    
     L.geoJSON(geojsonFeature).addTo(map); 
     L.geoJSON(entrances, {
         onEachFeature: onEachFeature
