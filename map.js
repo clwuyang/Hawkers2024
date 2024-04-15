@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Apparel Mart / Holiday Inn",
             "show_on_map": true, 
-            "popupContent": "Apparel Mart / Holiday Inn<br><a href='https://maps.app.goo.gl/PZq3jJkuXyLaJjNS7'>350 W Wolf Point Plaza, Chicago, IL 60654</a><br><img src='images/fulls/350 West Mart.png' width='200'>",
+            "popupContent": "Apparel Mart / Holiday Inn<br><a href='https://maps.app.goo.gl/PZq3jJkuXyLaJjNS7'>350 W Wolf Point Plaza, Chicago, IL 60654</a><br><img src='images/fulls/350_West_Mart.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "James R. Thompson Center",
             "show_on_map": true, 
-            "popupContent": "James R. Thompson Center<br><a href='https://maps.app.goo.gl/28asMQGTxDN3WqRv6'>100 W Randolph St, Chicago, IL 60601</a><br><img src='images/fulls/James R Thompson Center.png' width='200'>",
+            "popupContent": "James R. Thompson Center<br><a href='https://maps.app.goo.gl/28asMQGTxDN3WqRv6'>100 W Randolph St, Chicago, IL 60601</a><br><img src='images/fulls/James_R_Thompson_Center.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Chicago Board of Options Exchange / LaSalle St. Station",
             "show_on_map": true, 
-            "popupContent": "Chicago Board of Options Exchange / LaSalle St. Station<br><a href='https://maps.app.goo.gl/pVVkMa3Wije9rKCQ7'>203 N LaSalle St Suite 202 2nd Floor, Chicago, IL 60601</a><br><img src='images/fulls/LaSalle St Station.png' width='200'>",
+            "popupContent": "Chicago Board of Options Exchange / LaSalle St. Station<br><a href='https://maps.app.goo.gl/pVVkMa3Wije9rKCQ7'>203 N LaSalle St Suite 202 2nd Floor, Chicago, IL 60601</a><br><img src='images/fulls/LaSalle_St_Station.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Three First National Plaza",
             "show_on_map": true, 
-            "popupContent": "Three First National Plaza<br><a href='https://maps.app.goo.gl/8PkBkE338ew9qXze6'>70 W Madison St, Chicago, IL 60602</a><br><img src='images/fulls/Three First National Plaza.png' width='200'>",
+            "popupContent": "Three First National Plaza<br><a href='https://maps.app.goo.gl/8PkBkE338ew9qXze6'>70 W Madison St, Chicago, IL 60602</a><br><img src='images/fulls/Three_First_National_Plaza.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Heritage At Millennium Park",
             "show_on_map": true, 
-            "popupContent": "Heritage At Millennium Park<br><a href='https://maps.app.goo.gl/dwg4vFaKTuPYPiBq6'>130 N Garland Ct, Chicago, IL 60602</a><br><img src='images/fulls/Heritage Millennium.png' width='200'>",
+            "popupContent": "Heritage At Millennium Park<br><a href='https://maps.app.goo.gl/dwg4vFaKTuPYPiBq6'>130 N Garland Ct, Chicago, IL 60602</a><br><img src='images/fulls/Heritage_Millennium.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Grant Park South Garage",
             "show_on_map": true, 
-            "popupContent": "Grant Park South Garage<br><a href='https://maps.app.goo.gl/k9CffR7QFfbUD8N59'>325 S Michigan Ave, Chicago, IL 60604</a><br><img src='images/fulls/Grant Park South Garage.png' width='200'>",
+            "popupContent": "Grant Park South Garage<br><a href='https://maps.app.goo.gl/k9CffR7QFfbUD8N59'>325 S Michigan Ave, Chicago, IL 60604</a><br><img src='images/fulls/Grant_Park_South_Garage.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Chicago Cultural Center",
             "show_on_map": true, 
-            "popupContent": "Chicago Cultural Center<br><a href='https://maps.app.goo.gl/RuaWYnfwC7oBJvJg9'>78 E Washington St, Chicago, IL 60602</a><br><img src='images/fulls/Chicago Cultural Center.png' width='200'>",
+            "popupContent": "Chicago Cultural Center<br><a href='https://maps.app.goo.gl/RuaWYnfwC7oBJvJg9'>78 E Washington St, Chicago, IL 60602</a><br><img src='images/fulls/Chicago_Cultural_Center.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "One Illinois Center",
             "show_on_map": true, 
-            "popupContent": "One Illinois Center<br><a href='https://maps.app.goo.gl/rpqevqpxsu1iuXnYA'>111 E Wacker Dr, Chicago, IL 60601</a><br><img src='images/fulls/One Illinois Center.png' width='200'>",
+            "popupContent": "One Illinois Center<br><a href='https://maps.app.goo.gl/rpqevqpxsu1iuXnYA'>111 E Wacker Dr, Chicago, IL 60601</a><br><img src='images/fulls/One_Illinois_Center.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Dirksen Federal Building",
             "show_on_map": true, 
-            "popupContent": "Dirksen Federal Building<br><a href='https://maps.app.goo.gl/zqXuLgcqKadjEBfB6'>219 S Dearborn St, Chicago, IL 60604</a><br><img src='images/fulls/Dirksen Federal Building.png' width='200'>",
+            "popupContent": "Dirksen Federal Building<br><a href='https://maps.app.goo.gl/zqXuLgcqKadjEBfB6'>219 S Dearborn St, Chicago, IL 60604</a><br><img src='images/fulls/Dirksen_Federal_Building.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Exelon Corporation Headquarters",
             "show_on_map": true, 
-            "popupContent": "Exelon Corporation Headquarters<br><a href='https://maps.app.goo.gl/dGgRbbkNuvXWQ3ZeA'>10 S Dearborn St, Chicago, IL 60603</a><br><img src='images/fulls/47 South Clark St.png' width='200'>",
+            "popupContent": "Exelon Corporation Headquarters<br><a href='https://maps.app.goo.gl/dGgRbbkNuvXWQ3ZeA'>10 S Dearborn St, Chicago, IL 60603</a><br><img src='images/fulls/47_South_Clark_St.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Millennium Park",
             "show_on_map": true, 
-            "popupContent": "Millennium Park<br><a href='https://maps.app.goo.gl/6xYaJP3TFwzQ6mLaA'>Chicago, IL 60602</a><br><img src='images/fulls/Millennium Park.png' width='200'>",
+            "popupContent": "Millennium Park<br><a href='https://maps.app.goo.gl/6xYaJP3TFwzQ6mLaA'>Chicago, IL 60602</a><br><img src='images/fulls/Millennium_Park.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Ogilvie Transportation Center",
             "show_on_map": true, 
-            "popupContent": "Ogilvie Transportation Center<br><a href='https://maps.app.goo.gl/KFbU2eWQ5GgzYSWL6'>500 W Madison St, Chicago, IL 60661</a><br><img src='images/fulls/METRA Ogilvie Station.png' width='200'>",
+            "popupContent": "Ogilvie Transportation Center<br><a href='https://maps.app.goo.gl/KFbU2eWQ5GgzYSWL6'>500 W Madison St, Chicago, IL 60661</a><br><img src='images/fulls/METRA_Ogilvie_Station.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Lakeshore Sport & Fitness",
             "show_on_map": true, 
-            "popupContent": "Lakeshore Sport & Fitness<br><a href='https://maps.app.goo.gl/vtxvAYaE3YGgMdc67'>211 N Stetson Ave, Chicago, IL 60601</a><br><img src='images/fulls/Lakeshore Athletic Club.png' width='200'>",
+            "popupContent": "Lakeshore Sport & Fitness<br><a href='https://maps.app.goo.gl/vtxvAYaE3YGgMdc67'>211 N Stetson Ave, Chicago, IL 60601</a><br><img src='images/fulls/Lakeshore_Athletic_Club.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Renaissance Hotel",
             "show_on_map": true, 
-            "popupContent": "Renaissance Hotel<br><a href='https://maps.app.goo.gl/aVirHVti2pkVEs1H8'>1 W Wacker Dr, Chicago, IL 60601</a><br><img src='images/fulls/Renaissance Hotel.png' width='200'>",
+            "popupContent": "Renaissance Hotel<br><a href='https://maps.app.goo.gl/aVirHVti2pkVEs1H8'>1 W Wacker Dr, Chicago, IL 60601</a><br><img src='images/fulls/Renaissance_Hotel.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Willis Tower",
             "show_on_map": true, 
-            "popupContent": "Sears Tower<br><a href='https://maps.app.goo.gl/2gH7KXq5SGKzn2JT8'>233 S Wacker Dr, Chicago, IL 60606</a><br><img src='images/fulls/Sears Tower.png' width='200'>",
+            "popupContent": "Sears Tower<br><a href='https://maps.app.goo.gl/2gH7KXq5SGKzn2JT8'>233 S Wacker Dr, Chicago, IL 60606</a><br><img src='images/fulls/Sears_Tower.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
