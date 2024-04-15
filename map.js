@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "properties": {
             "name": "Chicago Board of Options Exchange / LaSalle St. Station",
             "show_on_map": true, 
-            "popupContent": "Chicago Board of Options Exchange / LaSalle St. Station<br><a href='https://maps.app.goo.gl/pVVkMa3Wije9rKCQ7'>203 N La Salle St Suite 202 2nd Floor, Chicago, IL 60601</a><br><img src='images/fulls/fulls/METRA Ogilvie Station.png' width='200'>",
+            "popupContent": "Chicago Board of Options Exchange / LaSalle St. Station<br><a href='https://maps.app.goo.gl/pVVkMa3Wije9rKCQ7'>203 N LaSalle St Suite 202 2nd Floor, Chicago, IL 60601</a><br><img src='images/fulls/LaSalle St Station.png' width='200'>",
         },
         "geometry": {
             "type": "Point",
